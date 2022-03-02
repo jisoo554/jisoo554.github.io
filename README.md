@@ -1,8 +1,0 @@
-# jisoo554.github.io
-echo "# jisoo554.github.io" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin https://github.com/jisoo554/jisoo554. github.io.git
- git push -u origen principal
