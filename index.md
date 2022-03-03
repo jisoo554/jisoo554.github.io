@@ -1,12 +1,12 @@
-Hola esta es mi primera pàgina web
+###Hola esta es mi primera pàgina web
 
-Mi nombre es Ana y tengo 17 años micolor favorito es el rosa y el negro (https://github.com/jisoo554/jisoo554.github.io/edit/main/index.md)soo554.github.io
+Mi nombre es Ana y tengo 17 años micolor favorito es el rosa y el negro tengo 6 periitos me gusta escuchar musica tengo 2 hermanos 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(https://github.com/jisoo554/jisoo554.github.io/edit/main/index.md)soo554.github.io
 
-### Markdown
+### 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
