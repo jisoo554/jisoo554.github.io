@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##  Bienvenido a mi primera pagina web
 
 You can use the [editor on GitHub](https://github.com/jisoo554/jisoo554.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Mis gustos y intereses
+Me gusta conocer temas sociales que me interesen y sean de mi agrado para tener un conocimiento y el comportamiento y tener mis ideas muy claras para no confundirme y saber que tipos de personas hay para este mundo tratar de ver mas puntos de vistas o opiniones 
+## Habilidades
+Me gusta apreder mas de la tecnologia y tener en mente que tengo que intentar hasta que ne quede mis prioyectos ya sean escolares o personales y tratar de ver la menera para que me salga si me lo propongo
+### Espero que salga mi pagina 
 
 - Bulleted
 - List
