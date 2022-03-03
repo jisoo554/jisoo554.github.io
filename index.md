@@ -1,4 +1,5 @@
 ##  Bienvenido a mi primera pàgina web
+
 ### Mis gustos y intereces 
 Me gusta conocer temas sociales que me interesen y sean de mi agrado para tener un conocimiento y el comportamiento y tener mis ideas muy claras para no confundirme y saber que tipos de personas hay para este mundo tratar de ver mas puntos de vistas o opiniones.
 Me gusta apreder mas de la tecnologia y tener en mente que tengo que intentar hasta que ne quede mis prioyectos ya sean escolares o personales y tratar de ver la menera para que me salga si me lo propongo.
