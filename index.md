@@ -1,6 +1,6 @@
 Hola esta es mi primera pàgina web
 
-You can use the [editor on GitHub](https://github.com/jisoo554/jisoo554.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Mi nombre es Ana y tengo 17 años micolor favorito es el rosa y el negro (https://github.com/jisoo554/jisoo554.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
