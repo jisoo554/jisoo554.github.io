@@ -2,3 +2,8 @@
  Me gustan los perritos 
  escuchar musica 
  tener amistades cinceras 
+
+| numero | Comida | Musica | colores |
+| -------|--------|--------|---------|
+|--------|--------|--------|---------|
+|   1    | enchiladas |blacpink|rosa|
